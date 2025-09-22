@@ -8,4 +8,4 @@ DELETE FROM produtos
 WHERE marca = 'Glossier';
 
 DELETE FROM produtos
-WHERE estoque <= 6;
+WHERE estoque <= 5;
